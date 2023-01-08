@@ -1,0 +1,10 @@
+^C:\USERS\MURAT\DESKTOP\DATABASE\C++\HOMEWORK\DATE\BUILD\CMAKEFILES\692DCDBB9D594B3AEFFEB93C8A328A45\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/murat/Desktop/Database/C++/Homework/Date -BC:/Users/murat/Desktop/Database/C++/Homework/Date/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/murat/Desktop/Database/C++/Homework/Date/build/DateProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+C:/Users/murat/Desktop/Database/C++/Homework/Date/build/CMakeFiles/DateProject.dir
+C:/Users/murat/Desktop/Database/C++/Homework/Date/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/murat/Desktop/Database/C++/Homework/Date/build/CMakeFiles/ZERO_CHECK.dir
